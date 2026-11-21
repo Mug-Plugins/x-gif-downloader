@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/icon.jpg" alt="X GIF Downloader Icon" width="128" />
+</p>
+
 <h1 align="center">X (Twitter) GIF 下载与转码器</h1>
 
 <p align="center">
@@ -16,7 +20,7 @@
 
 ## 安装方法
 
-1. 在浏览器中安装脚本管理器扩展（推荐 [Tampermonkey](https://www.tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/)）。
+1. 在浏览器中安装脚本管理器扩展（推荐 [ScriptCat（脚本猫）](https://docs.scriptcat.org/)，也兼容 [Tampermonkey](https://www.tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/)）。
 2. 新建脚本，将本仓库中的 [`x-gif-downloader.user.js`](./x-gif-downloader.user.js) 内容完整复制粘贴并保存（或在 GitHub 上点击该文件的 **Raw** 按钮直接安装）。
 3. 打开或刷新 [X (Twitter)](https://x.com/)，任意 GIF 卡片右上角即会出现下载胶囊按钮。
 
